@@ -1,2 +1,3 @@
 # cool-tools
-Cool tools to keep at hand
+
+List of simple and useful tools
