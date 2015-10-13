@@ -8,8 +8,8 @@ List of simple and useful tools
 
 ## GitHub
 - [Try GitHub] (https://try.github.io/)
-- [Git - The Simple Guide] (http://rogerdudler.github.io/git-guide/)
-- 
+- [Git The Simple Guide] (http://rogerdudler.github.io/git-guide/)
+
 
 ## Sublime
 - JsFormat
