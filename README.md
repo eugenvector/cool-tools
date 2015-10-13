@@ -12,6 +12,7 @@ List of simple and useful tools. By tool i mean any application/library that hel
 - [Try GitHub] (https://try.github.io/)
 - [Git The Simple Guide] (http://rogerdudler.github.io/git-guide/)
 - [GitHub Cheat Sheet] (https://help.github.com/articles/git-cheatsheet/)
+- [GitHub Training Material] (https://training.github.com/kit/)
 
 
 ## Sublime
