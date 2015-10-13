@@ -1,6 +1,6 @@
 # cool-tools
 
-List of simple and useful tools
+List of simple and useful tools. By tool i mean any application/library that helps solving problems.
 
 ## JavaScript
 - [a11y] (https://github.com/addyosmani/a11y)
